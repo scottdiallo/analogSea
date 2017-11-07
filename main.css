@@ -1,0 +1,14 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.sign-up-form {
+    max-width: 400px;
+    max-height: 600px;
+}
+
+img {
+    height: 35px;
+}
