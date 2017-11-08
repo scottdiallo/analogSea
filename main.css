@@ -4,11 +4,32 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #3f94e7;
+    text-align: center;
+}
+
 .sign-up-form {
     max-width: 400px;
-    max-height: 600px;
+    height: 500px;
+    background-color: white;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: inline-block;
+    margin-top: 22px;
 }
 
 img {
     height: 35px;
+}
+
+input,
+button {
+    height: 55px;
+    width: 320px;
+    padding: 15px;
+    border: 2px solid #ebebeb;
 }
