@@ -5,10 +5,10 @@
 }
 
 body {
-    margin-top: 120px;
-    padding: 0px;
+    margin-top: 45px;
     background-color: #3f94e7;
     text-align: center;
+    font-family: sans-serif;
 }
 
 .sign-up-form {
@@ -31,5 +31,34 @@ button {
     height: 55px;
     width: 320px;
     padding: 15px;
-    border: 2px solid #ebebeb;
+    border: 2px solid #c7c3c3;
+}
+
+input {
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+
+button {
+    background-color: #65c46f;
+    margin-bottom: 10px;
+}
+
+.forgot-password,
+h1 {
+    color: #c7c3c3;
+    font-weight: 200;
+    margin-bottom: 50px;
+}
+
+a:link {
+    color:
+}
+
+.login {
+    color: white;
+}
+
+h3 {
+    color: white;
 }
